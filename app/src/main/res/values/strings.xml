@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Menghitung luas bangun datar dengan mengukur panjang dan lebar adalah sebuah teknik matematika di mana panjang dan lebar dari bidang tersebut diukur, dan hasilnya dikalikan bersama untuk mendapatkan luasnya.\n\nAplikasi ini dibuat untuk kelas Mobpro 1.\n\nCopyright © 2021 – 2024 \nMufidah Rahman\nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
+</resources>
